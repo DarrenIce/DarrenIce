@@ -5,5 +5,5 @@
 </a>
 </p>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarrenIce&show_icons=true&theme=radical&hide=c,c++" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarrenIce&show_icons=true&theme=radical&hide=c,c%2B%2B,python" />
 </p>

@@ -1,9 +1,6 @@
-### Hi there 👋
-<p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=DarrenIce&show_icons=true&theme=radical&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DarrenIce&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
 </a>
-</p>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarrenIce&show_icons=true&theme=radical&hide=css,less,html" />
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarrenIce&langs_count=3&hide_title=true&hide_border=true&hide=css,less,html" />
+</a>

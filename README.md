@@ -1,3 +1,3 @@
 ### Hi there 👋 This is Darren
 
-[![Github Status](https://github-readme-stats.vercel.app/api?username=DarrenIce&show_icons=true&count_private=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![DarrenIce's GitHub Stats](https://github-stats-extended.vercel.app/api?username=DarrenIce&rank_icon=github&show_icons=true&include_all_commits=true&theme=shadow_blue)](https://github-stats-extended.vercel.app/api?username=DarrenIce&rank_icon=github&show_icons=true&include_all_commits=true&theme=shadow_blue)
